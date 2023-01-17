@@ -6,6 +6,6 @@ Un repositorio similar, pero usando `R`, se puede encontrar [aquí](https://gith
 
 - Los blocs con prefijo ALME contienen una serie de ejercicios propuestos por L. Merino y E. Santos en su [página de resolución de ejercicios tipo](https://www.ugr.es/~lmerino/ALME.html) de su libro [Álgebra Lineal con Métodos Elementales](https://www.amazon.es/%C3%81lgebra-lineal-m%C3%A9todos-elementales-GONZALEZ/dp/8497324811). 
 
-  - [ALME-sistemas-matrices-determinantes.ipynb](https://github.com/pedritomelenas/R-algebra-lineal/blob/main/ALME-sistemas-matrices-determinantes.ipynb) contiene   ejercicios relativos a transformaciones elementales por filas y columnas de una matriz, determinantes y sistemas de ecuaciones.
+  - [ALME-sistemas-matrices-determinantes.ipynb](https://github.com/pedritomelenas/Python-algebra-lineal/blob/main/ALME-sistemas-matrices-determinantes.ipynb) contiene   ejercicios relativos a transformaciones elementales por filas y columnas de una matriz, determinantes y sistemas de ecuaciones.
 
-  - [ALME-espacios-vectoriales.ipynb](https://github.com/pedritomelenas/R-algebra-lineal/blob/main/ALME-espacios-vectoriales.ipynb) contiene ejercicios relativos a dependencia lineal, subespacios, suma, intersección y suma directa de subespacios, ecuaciones cartesianas y paramétricas, cambio de base, matriz de Gram, ortogonalización y proyecciones.
+  - [ALME-espacios-vectoriales.ipynb](https://github.com/pedritomelenas/Python-algebra-lineal/blob/main/ALME-espacios-vectoriales.ipynb) contiene ejercicios relativos a dependencia lineal, subespacios, suma, intersección y suma directa de subespacios, ecuaciones cartesianas y paramétricas, cambio de base, matriz de Gram, ortogonalización y proyecciones.
