@@ -12,5 +12,5 @@ Un repositorio similar, pero usando `R`, se puede encontrar [aquí](https://gith
 
    - [ALME-aplicaciones-lineales.ipynb](https://github.com/pedritomelenas/Python-algebra-lineal/blob/main/ALME-aplicaciones-lineales.ipynb) contiene ejercicios sobre expresiones matriciales de aplicaciones lineales.
    
-     - [ALME-diagonalizacion.ipynb](https://github.com/pedritomelenas/Python-algebra-lineal/blob/main/ALME-diagonalizacion.ipynb) contiene ejercicios sobre diagonalización de matrices.
+   - [ALME-diagonalizacion.ipynb](https://github.com/pedritomelenas/Python-algebra-lineal/blob/main/ALME-diagonalizacion.ipynb) contiene ejercicios sobre diagonalización de matrices.
 
