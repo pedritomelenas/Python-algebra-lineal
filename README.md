@@ -9,3 +9,5 @@ Un repositorio similar, pero usando `R`, se puede encontrar [aquí](https://gith
   - [ALME-sistemas-matrices-determinantes.ipynb](https://github.com/pedritomelenas/Python-algebra-lineal/blob/main/ALME-sistemas-matrices-determinantes.ipynb) contiene   ejercicios relativos a transformaciones elementales por filas y columnas de una matriz, determinantes y sistemas de ecuaciones.
 
   - [ALME-espacios-vectoriales.ipynb](https://github.com/pedritomelenas/Python-algebra-lineal/blob/main/ALME-espacios-vectoriales.ipynb) contiene ejercicios relativos a dependencia lineal, subespacios, suma, intersección y suma directa de subespacios, ecuaciones cartesianas y paramétricas, cambio de base, matriz de Gram, ortogonalización y proyecciones.
+
+   - [ALME-aplicaciones-lineales.ipynb](https://github.com/pedritomelenas/Python-algebra-lineal/blob/main/ALME-aplicaciones-lineales.ipynb) contiene ejercicios sobre expresiones matriciales de aplicaciones lineales.
