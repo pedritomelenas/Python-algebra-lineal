@@ -1,2 +1,11 @@
-# Python-algebra-lineal
-Ejemplos de uso en python de álgebra lineal para estadística
+# Álgebra lineal con `Python`
+
+En este repositorio se resuelven problemas de [L. Merino, E. Santos, [[Álgebra Lineal con Métodos Elementales](https://www.amazon.es/%C3%81lgebra-lineal-m%C3%A9todos-elementales-GONZALEZ/dp/8497324811)] y de [I. Ojeda, J. Gago, [Métodos matemáticos para la Estadística](https://publicauex.unex.es/libro/metodos-matematicos-para-estadistica_135467/)] usando `Python`, y en particular `sympy`. Una breve introducción a `Python` y `sympy` se puede encontrar en este [repositorio](https://github.com/pedritomelenas/Python-Intro).
+
+Un repositorio similar, pero usando `R` se puede encontrar [aquí](https://github.com/pedritomelenas/R-algebra-lineal).
+
+- Los blocs con prefijo ALME contienen una serie de ejercicios propuestos por L. Merino y E. Santos en su [página de resolución de ejercicios tipo](https://www.ugr.es/~lmerino/ALME.html) de su libro [Álgebra Lineal con Métodos Elementales](https://www.amazon.es/%C3%81lgebra-lineal-m%C3%A9todos-elementales-GONZALEZ/dp/8497324811). 
+
+  - [ALME-sistemas-matrices-determinantes.ipynb](https://github.com/pedritomelenas/R-algebra-lineal/blob/main/ALME-sistemas-matrices-determinantes.ipynb) contiene   ejercicios relativos a transformaciones elementales por filas y columnas de una matriz, determinantes y sistemas de ecuaciones.
+
+  - [ALME-espacios-vectoriales.ipynb](https://github.com/pedritomelenas/R-algebra-lineal/blob/main/ALME-espacios-vectoriales.ipynb) contiene ejercicios relativos a dependencia lineal, subespacios, suma, intersección y suma directa de subespacios, ecuaciones cartesianas y paramétricas, cambio de base, matriz de Gram, ortogonalización y proyecciones.
