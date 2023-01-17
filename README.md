@@ -19,3 +19,5 @@ Un repositorio similar, pero usando `R`, se puede encontrar [aquí](https://gith
   - [Forma-Jordan.ipynb](https://github.com/pedritomelenas/Python-algebra-lineal/blob/main/Forma-Jordan.ipynb) contiene ejemplos de cálculo de la forma canónica de Jordan.
   
   - [Diagonalizacion-simetricas-semejanza-ortogonal.ipynb](https://github.com/pedritomelenas/Python-algebra-lineal/blob/main/Diagonalizacion-simetricas-semejanza-ortogonal.ipynb) contiene un ejemplo de diagonalización de matrices simétricas por semejanza ortogonal.
+  
+  - [Descomposicion-valores-singulares.ipynb](https://github.com/pedritomelenas/R-algebra-lineal/blob/main/Descomposicion-valores-singulares.ipynb) contiene un ejemplo de descomposición de una matriz por valores singulares.
