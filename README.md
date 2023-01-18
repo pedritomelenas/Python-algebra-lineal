@@ -20,4 +20,6 @@ Un repositorio similar, pero usando `R`, se puede encontrar [aquí](https://gith
   
   - [Diagonalizacion-simetricas-semejanza-ortogonal.ipynb](https://github.com/pedritomelenas/Python-algebra-lineal/blob/main/Diagonalizacion-simetricas-semejanza-ortogonal.ipynb) contiene un ejemplo de diagonalización de matrices simétricas por semejanza ortogonal.
   
-  - [Descomposicion-valores-singulares.ipynb](https://github.com/pedritomelenas/R-algebra-lineal/blob/main/Descomposicion-valores-singulares.ipynb) contiene un ejemplo de descomposición de una matriz por valores singulares.
+  - [Descomposicion-valores-singulares.ipynb](https://github.com/pedritomelenas/Python-algebra-lineal/blob/main/Descomposicion-valores-singulares.ipynb) contiene un ejemplo de descomposición de una matriz por valores singulares.
+  
+  - [Inversas-generalizadas.ipynb](https://github.com/pedritomelenas/Python-algebra-lineal/blob/main/Inversas-generalizadas.ipynb) contiene ejemplos de cálculo de inversas generalizadas y soluciones mínimo-cuadráticas de sistemas de ecuaciones lineales.
