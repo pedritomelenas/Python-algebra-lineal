@@ -7,8 +7,6 @@ website:
   repo-url: https://github.com/pedritomelenas/Python-algebra-lineal
   issue-url: https://github.com/pedritomelenas/Python-algebra-lineal/issues
   navbar:
-    left:
-      - index.qmd
     right:
       - icon: github
         href: https://github.com/pedritomelenas/Python-algebra-lineal
