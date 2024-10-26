@@ -1,0 +1,40 @@
+project:
+  type: website
+website:
+  title: "Álgebra Lineal con Python"
+  search: false
+  site-url: https://pedritomelenas.github.io/Python-algebra-lineal/
+  repo-url: https://github.com/pedritomelenas/Python-algebra-lineal
+  issue-url: https://github.com/pedritomelenas/Python-algebra-lineal/issues
+  navbar:
+    right:
+      - icon: github
+        href: https://github.com/pedritomelenas/Python-algebra-lineal
+        aria-label: GitHub
+
+  sidebar: 
+    style: "docked"
+    footer: Hecho con [Quarto](https://quarto.org/)
+    contents:
+      - text: "Sistemas de ecuaciones, matrices, determinantes"
+        href: "ALME-sistemas-matrices-determinantes.ipynb"
+      - text: "Espacios vectoriales"
+        href: "ALME-espacios-vectoriales.ipynb"
+      - text: "Aplicaciones lineales"
+        href: "ALME-aplicaciones-lineales.ipynb"
+      - text: "Diagonalización"
+        href: "ALME-diagonalizacion.ipynb"
+      - text: "Forma de Jordan"
+        href: "Forma-Jordan.ipynb"
+      - text: "Diagonalización por semejanza ortogonal"
+        href: "Diagonalizacion-simetricas-semejanza-ortogonal.ipynb"
+      - text: "Descomposición por valores singulares"
+        href: "Descomposicion-valores-singulares.ipynb"
+      - text: "Inversas generalizadas"
+        href: "Inversas-generalizadas.ipynb"
+
+format:
+  html:
+    theme: cosmo
+    lang: es
+
